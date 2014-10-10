@@ -1,7 +1,7 @@
 === Bookly - Responsive Appointment Booking Application (Lite Version) ===
 
 Contributors: Ladela
-Tags: Booking Calendar, Appointment Booking, Business, Responsive, Hair salon, Personal Trainer
+Tags: appointment booking, booking calendar, booking, business, responsive, hair salon, personal trainer
 Requires at least: 3.7
 Tested up to: 4.0
 Stable tag: 2.0.1
@@ -12,7 +12,7 @@ Bookly is a easy-to-use and easy-to-manage booking tool for Service providers wh
 
 == Description ==
 
-Bookly Plugin ñ is a great easy-to-use and easy-to-manage booking tool for service providers who think about their customers. Plugin supports wide range of services, provided by business and individuals service providers offering reservations through websites. Setup any reservations quickly, pleasantly and easy with Bookly!
+Bookly Plugin ‚Äì is a great easy-to-use and easy-to-manage booking tool for service providers who think about their customers. Plugin supports wide range of services, provided by business and individuals service providers offering reservations through websites. Setup any reservations quickly, pleasantly and easy with Bookly!
 
 = Key features: =
 
@@ -55,7 +55,7 @@ After a simple installation process, the website owner can start creating servic
 
 Bookly offers interesting solutions to make booking process pleasant for customers: the only thing that is required from the client is to complete 5 easy steps. The intuitive interface, as well as clear and attractive design make this process extremely easy. Customers have the possibility to find time convenient for appointments, select service provider, book time and pay for services. One more thing that will please your clients is the ability to view the available booking time intervals in their own time zone.
 
-Letís say you have installed the Bookly plugin, but its default design doesnít correspond to the appearance of your website. Our developers took care of everything: you can easily modify the booking form design according to your own needs. Itís possible to select the main color and change the fieldsí titles and descriptions.
+Let‚Äôs say you have installed the Bookly plugin, but its default design doesn‚Äôt correspond to the appearance of your website. Our developers took care of everything: you can easily modify the booking form design according to your own needs. It‚Äôs possible to select the main color and change the fields‚Äô titles and descriptions.
 
 The plugin offers easy and comfortable way of communication between service providers and customers by using e-mail notifications (available in pro version). There are several types of notifications for different cases: reminders, confirmations, follow-ups, agendas etc. You may also send notifications to your staff members, for example to give some information about the next agenda or appointment details. Website owner can manage all notifications settings in the WP admin panel.
 
@@ -66,7 +66,7 @@ Customizable calendar allows looking through appointments schedule for particula
 
 = How can I embed the booking form into a post/page? =
 
-You can find a button ìAdd Booking Formî above content editor for a post or a page.
+You can find a button ‚ÄúAdd Booking Form‚Äù above content editor for a post or a page.
 
 == Screenshots ==
 
@@ -101,7 +101,7 @@ The manual installation method involves downloading our plugin and uploading it 
 When the title of the plugin has appeared on your dashboard, you may start the setup. The following steps are required to make it possible for customers use your newly installed plugin:
 
 * Enter company details (name, address, etc.);
-* Set companyís working hours;
+* Set company‚Äôs working hours;
 * Define category of services and list of services in each category;
 * Determine price and duration of services;
 * Determine service staff member;
@@ -123,44 +123,44 @@ Upon the completion of these steps, customers can book appointments. In the Cale
 == Changelog ==
 
 = 2.0.1 =
-WordPress 4.0 support
-Fixed translation into French
-Fixed cron notifications
-Fixed Google Calendar formatting
-Clear plugin data upon uninstalling
+* WordPress 4.0 support
+* Fixed translation into French
+* Fixed cron notifications
+* Fixed Google Calendar formatting
+* Clear plugin data upon uninstalling
 
 = 2.0 =
-Added automatic export to Google Calendar
-Added time zones support
-Added time slot length setting
-Added customer search field when editing appointment
-Added cancel appointment link
-Added 22 new currencies
-Added possibility to edit form labels
-Added possibility to enter CSS code for main color
-Added setting to disable last minute appointments
-Added export appointments feature
-Added import customers feature
-Fixed first day of week
+* Added automatic export to Google Calendar
+* Added time zones support
+* Added time slot length setting
+* Added customer search field when editing appointment
+* Added cancel appointment link
+* Added 22 new currencies
+* Added possibility to edit form labels
+* Added possibility to enter CSS code for main color
+* Added setting to disable last minute appointments
+* Added export appointments feature
+* Added import customers feature
+* Fixed first day of week
 
 = 1.2.0 =
-Added new field Notes at Details step
-Added RUB, SEK, DKK
-Fixed date and time in email notifications on non-English web sites
+* Added new field Notes at Details step
+* Added RUB, SEK, DKK
+* Fixed date and time in email notifications on non-English web sites
 
 = 1.1.9 =
-New replacement [[STAFF_NAME]] in Appearance (old replacements [[BY_SERVICE_PROVIDER_NAME]] and [[BY_STAFF_NAME]] are deprecated)
-Translation into French
-Fixed bug with datepicker on non-English web sites
+* New replacement [[STAFF_NAME]] in Appearance (old replacements [[BY_SERVICE_PROVIDER_NAME]] and [[BY_STAFF_NAME]] are deprecated)
+* Translation into French
+* Fixed bug with datepicker on non-English web sites
 
 = 1.1.8 =
-Fixed sending emails to staff
-Updated translations
+* Fixed sending emails to staff
+* Updated translations
 
 = 1.1.7 =
-Added decimal prices
-Donít display non-working days
-Bug fixes
+* Added decimal prices
+* Don‚Äôt display non-working days
+* Bug fixes
 
 == Upgrade Notice ==
 
