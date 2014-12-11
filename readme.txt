@@ -79,7 +79,7 @@ You can find a button “Add Booking Form” above content editor for a post or 
 = Minimum Requirements =
 
 * WordPress 3.6 or greater
-* PHP version 5.2 or greater
+* PHP version 5.3 or greater
 * MySQL version 5.0 or greater
 
 = Automatic installation =
