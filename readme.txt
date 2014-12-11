@@ -1,4 +1,4 @@
-=== Bookly - Responsive Appointment Booking Application (Lite Version) ===
+﻿=== Bookly - Responsive Appointment Booking Application (Lite Version) ===
 
 Contributors: Ladela
 Tags: appointment booking, booking calendar, booking, business, responsive, hair salon, personal trainer
@@ -121,6 +121,59 @@ Upon the completion of these steps, customers can book appointments. In the Cale
 * Booking form appearance modes.
 
 == Changelog ==
+
+= 3.3 =
+* Added option to hide date and time selection at the first step
+* Fixed import of customers
+
+= 3.2.2 =
+* Fixed setting GC calendar ID
+* Fixed regression bugs
+
+= 3.2.1 =
+* Added 2 way sync with Google Calendar via new API
+* Added coupons
+* Restored notes in the backend calendar when capacity is 1
+
+= 3.1 =
+* Added new replacement [[SERVICE_PRICE]] for email notifications
+* Added delimiter setting for import from CSV
+* Fixed regression bug in export to Google Calendar
+
+= 3.0.1 =
+* Fixed regression bug in cron notifications
+* Fixed regression bug in displaying price next to employee name
+
+= 3.0 =
+* Added support for multiple bookings
+* Added 5, 10 and 12 minutes time slots
+* Added - Take in account Google Calendar events when displaying available time slots
+* Added - Pre populate name and email for logged in customers
+* Added - Sort categories, services and employees alphabetically
+
+= 2.2.3 =
+* Fixed displaying step 5 after PayPal payment (regression bug)
+
+= 2.2.2 =
+* Fixed bug when deleting appointment after cancellation
+* Fixed bug in displaying customers list
+
+= 2.2.1 =
+* Fixed [[CATEGORY_NAME]] in cron notifications
+* Fixed service selection when go backwards
+* Fixed regression bugs
+
+= 2.2.0 =
+* Since this version Bookly requires at least PHP 5.3
+* Added new payment method - Stripe
+* Skip payment step for free services
+* Fixed issues with HTTPS
+* Fixed cancellation link for appointments created in the backend
+
+= 2.1.0 =
+* Added Authorize.net support
+* Added new replacement [[CATEGORY_NAME]] both in appearance and email notifications settings
+* Bug fixes
 
 = 2.0.1 =
 * WordPress 4.0 support
