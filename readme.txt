@@ -3,8 +3,8 @@
 Contributors: Ladela
 Tags: appointment booking, booking calendar, booking, business, responsive, hair salon, personal trainer
 Requires at least: 3.7
-Tested up to: 4.0
-Stable tag: 2.0.1
+Tested up to: 4.0.1
+Stable tag: 3.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
