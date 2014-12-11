@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Bookly Light
+Plugin Name: Bookly Lite
 Plugin URI: http://bookly.ladela.com
 Description: Bookly is a great easy-to-use and easy-to-manage appointment booking tool for Service providers who think about their customers. Plugin supports wide range of services, provided by business and individuals service providers offering reservations through websites. Setup any reservations quickly, pleasantly and easy with Bookly!
 Version: 3.3
