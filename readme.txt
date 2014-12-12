@@ -1,4 +1,4 @@
-﻿=== Bookly - Responsive Appointment Booking Application (Lite Version) ===
+=== Bookly - Responsive Appointment Booking Application (Lite Version) ===
 
 Contributors: Ladela
 Tags: appointment booking, booking calendar, booking, business, responsive, hair salon, personal trainer
