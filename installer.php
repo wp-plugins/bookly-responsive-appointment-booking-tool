@@ -185,7 +185,7 @@ class AB_Installer {
             $wpdb->insert( 'ab_staff_schedule_item',
                 array(
                     'staff_id' => 1,
-                    'schedule_item_id' => $i,
+                    'day_index' => $i,
                     'start_time' => '08:00:00',
                     'end_time' => '18:00:00',
                 )
