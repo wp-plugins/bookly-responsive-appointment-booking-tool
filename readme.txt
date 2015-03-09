@@ -45,9 +45,9 @@ Bookly Plugin – is a great easy-to-use and easy-to-manage booking tool for ser
 
 = Plugins Resources =
 
-[Home Page](http://bookly.ladela.com/  "WP Appointment Booking Plugin" ) |
-[Documentation](http://bookly.ladela.com/documentation/ "WP Appointment Booking Plugin Docs" ) |
-[Full version demo](http://demo.bookly.ladela.com/ "WP Appointment Booking Plugin Demo" ) 
+[Home Page](http://bookly-wp-plugin.com/  "WP Appointment Booking Plugin" ) |
+[Documentation](http://bookly-wp-plugin.com/documentation/ "WP Appointment Booking Plugin Docs" ) |
+[Full version demo](http://demo.bookly-wp-plugin.com/ "WP Appointment Booking Plugin Demo" ) 
 
 = How it works =
 
